@@ -24,15 +24,15 @@ To install and run the app on your Android device:
 
 2. Open the downloaded `.apk` file on your Android device.
 
-3. If prompted by Android security, allow installation from unknown/external sources:
-   * **Android 8.0+:** Tap **Settings** on the prompt and enable *"Allow from this source"* for your browser/file manager.
-   * **Older Android versions:** Go to **Settings > Security > Unknown Sources** and toggle it on.
+3. If prompted by Android security or Google Play Protect, tap **"More details"** and select **"Install anyway"**.
+
+   <br/>
+
+   <img src="installanyway.png" alt="Google Play Protect Warning" width="260" />
+
+   <br/>
 
 4. Follow the on-screen installer prompts and open **A&A SMS Gateway**.
-
-**Note:** if you see this
-![Android Install Warning](installanyway.png)
-you need to press "Install anyway" 
 
 ---
 
