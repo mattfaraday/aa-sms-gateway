@@ -30,6 +30,10 @@ To install and run the app on your Android device:
 
 4. Follow the on-screen installer prompts and open **A&A SMS Gateway**.
 
+**Note:** if you see this
+![Android Install Warning](installanyway.png)
+you need to press "Install anyway" 
+
 ---
 
 ## ⚙️ Configuration & Usage
